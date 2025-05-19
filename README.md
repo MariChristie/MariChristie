@@ -1,6 +1,6 @@
 # Hii, I'm Mary 😺 
 
-**`Fullstack and Developer.`**
+**Fullstack and Developer.**
 
 - 🩵 Pronouns: She/Her,
 - 💻 Favorite lang: Python and C++.
@@ -81,16 +81,22 @@
 <br/>
 <br/>
 
-### 📊 Stats
 
-<div align="center">
+### 📊  Stats
+
+<p>
   <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=MariChristie&show_icons=true&theme=date_night&include_all_commits=true&locale=en" 
-    height="200"
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariChristie&theme=date_night&layout=compact&custom_title=Most_Used_Languages&langs_count=9" 
-    height="200"
-  />
-</div>
 
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariChristie&theme=date_night&layout=compact&custom_title=Languages_works&langs_count=9" 
+  />
+</p>
