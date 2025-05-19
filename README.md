@@ -81,23 +81,16 @@
 <br/>
 <br/>
 
+### 📊 Stats
 
-### 📊  Stats
-
-<p>
+<div align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MariChristie&show_icons=true&theme=rose&include_all_commits=true&locale=en" 
+    src="https://github-readme-stats.vercel.app/api?username=MariChristie&show_icons=true&theme=date_night&include_all_commits=true&locale=en" 
+    height="200"
   />
-
   <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariChristie&theme=rose&layout=compact&custom_title=Most_Used_Languages&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariChristie&theme=date_night&layout=compact&custom_title=Most_Used_Languages&langs_count=9" 
+    height="200"
   />
+</div>
 
-</p>
