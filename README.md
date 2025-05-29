@@ -96,7 +96,7 @@
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariChristie&theme=date_night&layout=compact&custom_title=Languages&langs_count=9" 
+      height="170" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariChristie&theme=date_night&layout=compact&custom_title=Languages&langs_count=6" 
   />
 </p>
