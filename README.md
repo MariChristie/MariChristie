@@ -2,18 +2,17 @@
 
 Fullstack, Developer & Design.
 
-`About me:`
+### `About me:`
 - **Pronouns:** She/Her,
 - **Favorite lang:** Python & C++,
 - **PT/EN.**
 
-`Tools:`
-- **Front-end:** HTML, CSS & Js.
-- **Back-end:** C# and PostegreSQL.
-- **Lang:** Python, C#, C++ & php.
-- **Database and analysis:** PostegreSQL & Pandas.
+### `Tools:`
+- **Front-end:** HTML, CSS & JavaScript.
+- **Back-end:** Python, C#, .NET, C++ & PHP.
+- **Database and analysis:** PostgreSQL & Pandas.
 - **Design:** Photoshop & Figma.
 
-`Contact:`
-- **Portfolio :**
+### `Contact:`
+- **Portfolio:**
 - **Email:**
