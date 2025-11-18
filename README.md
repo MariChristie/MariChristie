@@ -4,7 +4,7 @@ Fullstack, Developer & Design.
 
 ### `About me:`
 - **Pronouns:** She/Her,
-- **Favorite lang:** Python & C++,
+- **Favorite lang:** Python & C#,
 - **PT/EN.**
 
 ### `Tools:`
